@@ -48,5 +48,4 @@ def num_check(guess):
 #main function
 if __name__ == '__main__':
     guess = randint(1000, 10000)
-    print('Guess:', guess,'\n')
     num_check(guess)

@@ -6,7 +6,7 @@
 5. Each time the user makes a guess, he is told how many "cows" and "bulls" he has. 
 6. Once the user has 4 "cows", the game is over and he is told the number of guesses he made throughout the game.
 
-# Sample Output
+# Output Sample
 
     Please enter a 4-digits number: 8123
 
